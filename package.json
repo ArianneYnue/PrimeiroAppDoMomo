@@ -1,0 +1,27 @@
+{
+  "name": "primeirooappdamomo",
+  "version": "1.0.0",
+  "description": "primeiro app do momo q ela faz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArianneYnue/PrimeiroAppDoMomo.git"
+  },
+  "keywords": [
+    "momovalda"
+  ],
+  "author": "Minimichelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArianneYnue/PrimeiroAppDoMomo/issues"
+  },
+  "homepage": "https://github.com/ArianneYnue/PrimeiroAppDoMomo#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
