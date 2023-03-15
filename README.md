@@ -1,4 +1,4 @@
-# primeiro app do momo
+# primeiro app
 - npm init para iniciar o projeto nodejs
 - Rotas CRUD
 - Post adicionar novo usuario
